@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.292e476b.css",
+    "main.js": "/static/js/main.b1e30654.js",
+    "static/js/124.af595ddb.chunk.js": "/static/js/124.af595ddb.chunk.js",
+    "static/js/756.bccebcf0.chunk.js": "/static/js/756.bccebcf0.chunk.js",
+    "static/js/592.d2daad70.chunk.js": "/static/js/592.d2daad70.chunk.js",
+    "static/media/Lego.jpeg": "/static/media/Lego.8b02f1c6c3a8809e8cee.jpeg",
+    "index.html": "/index.html",
+    "main.292e476b.css.map": "/static/css/main.292e476b.css.map",
+    "main.b1e30654.js.map": "/static/js/main.b1e30654.js.map",
+    "124.af595ddb.chunk.js.map": "/static/js/124.af595ddb.chunk.js.map",
+    "756.bccebcf0.chunk.js.map": "/static/js/756.bccebcf0.chunk.js.map",
+    "592.d2daad70.chunk.js.map": "/static/js/592.d2daad70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.292e476b.css",
+    "static/js/main.b1e30654.js"
+  ]
+}
